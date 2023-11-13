@@ -1,4 +1,4 @@
-package me.darthwithap.kmm.calculator.core.domain.utils
+package me.darthwithap.kmm.calculator.domain.utils
 
 enum class AppError {
     // Todo: Add kinds of errors that can occur in the app

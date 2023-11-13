@@ -1,4 +1,4 @@
-package me.darthwithap.kmm.calculator.core.domain
+package me.darthwithap.kmm.calculator.domain
 
 sealed class Key {
     sealed class Operation(open val operation: String) : Key() {
